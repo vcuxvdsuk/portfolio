@@ -35,7 +35,7 @@ export default function Contact() {
                     </a>
                     {/* Download CV */}
                     <a
-                        href="/ORI_BARUCH.pdf"
+                        href="/portfolio/ORI_BARUCH.pdf"
                         download
                         className="px-6 py-3 rounded-xl bg-white text-black font-medium hover:scale-105 transition"
                     >
