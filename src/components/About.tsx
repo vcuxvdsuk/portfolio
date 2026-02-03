@@ -2,7 +2,7 @@ export default function About() {
     return (
         <section
             id="about"
-            className="w-full max-w-5xl mx-auto p-6 my-12 bg-white rounded-lg shadow-md"
+            className="w-full max-w-5xl mx-auto p-6 my-12 bg-white"
             data-text-color="text-black"
             data-color="bg-white"
         >
